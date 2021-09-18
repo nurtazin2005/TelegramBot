@@ -4,7 +4,6 @@ from telebot import REPLY_MARKUP_TYPES, types
 #Фотография транспорта
 # photo1 = open("photolink","rb")
 # photo2 = open("photolink","rb")
-#В words:0-Транспорт,1-Возмущение
 
 
 #0-Транспорт  1-Возмущение 2-Животные 3-Продукты 4-Фрукты 5-Овощи 
