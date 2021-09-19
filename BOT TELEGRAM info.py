@@ -17,7 +17,7 @@ bot = telebot.TeleBot(TOKEN)
     #---------------------------------------
     #Бот смотрит на сообщение пользователя и отвечает
     #if message.text.lower() == "Привет":
-        #bot.send_message(message.chat.id, "Hello"
+        #bot.send_message(message.chat.id, "Hello")
     #---------------------------------------
 
 
