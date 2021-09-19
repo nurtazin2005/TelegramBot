@@ -1,6 +1,7 @@
 import time
 import telebot
 from telebot import types
+#
 #Фотография транспортаpip install pyTelegramBotAPI
 # photo1 = open("photolink","rb")
 # photo2 = open("photolink","rb")
